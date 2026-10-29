@@ -1,1 +1,1 @@
-[![Banner](banner.png)](https://teeframe.com)
+[![Banner](../banner.png)](https://teeframe.com)
